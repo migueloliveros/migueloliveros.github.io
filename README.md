@@ -1,57 +1,44 @@
-# migueloliveros.github.io
+<!DOCTYPE html lang="es">
+<html>
+  <head>
+    <title>Zona Autónoma Militarizada</title>
+    <link rel="icon" type="logo.png" href="assets/logo/logo.png" />
+    <style>
+body {
+  background-color: #000000;
+}
+        body {
+            text-align: center;
+        }
+        #logo {
+            width: 60vw;
+            max-width: 800px;
+            height: auto;
+            margin: 50px auto;
+        }
+        #archives {
+            display: inline-block;
+            padding: 15px 35px;
+            text-decoration: none;
+            background: #222222;
+            color: red;
+            font-family: 'Helvetica', 'Arial', sans-serif;
+            font-size: 38px;
+            border-radius: 10px;
+        }
+        #archives:hover {
+            background: #666666;
+        }
+    </style>
+  </head>
 
-000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-000000000000000000000000111111111111111111111111111100000000000000000000000
-000000000000000000000000000000000000000000000000000
-0000000000000000000000000000000000000000000000000000000000000000000
-00000000000000000000000000000000
-00000000000000000000000
-00000000000000000000000000000000000000000000
+<body>
 
+    <img src="assets/logo/logo-adjusted.gif" alt="Zona Autónoma Militarizada" id="logo">
+    <img src="assets/logo/logo-adjusted-2.gif" alt="Zona Autónoma Militarizada" id="logo">
+    <br>
+    <a id="archives" href="https://zonaautonomamilitarizada.wordpress.com/">| ARCHIVES |</a>
 
+</body>
 
-
-0000000000000000000000000
-0
-
-
-
-
-
-
-
-0
-000000000000000000000000000
-000000000000000000000
-0000000000000000000
-000000 0 
-0000000
-0000000000000000000000000
-0
-
-0
-0
-
-00
-0
-0
-0
-
-00
-
-0
-0
-00000000000000000000000000000000000000
-Zona Autónoma Militarizada
-0000000000000
-
-000000
-00000000
-
-0
-000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000001111111111111111111
-111111111111111111111111111111111111111111111111111111100000000000
-0
-
-
-00000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111
+</html>
